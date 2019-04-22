@@ -11,6 +11,6 @@ I used 102 Category Flower dataset from http://www.robots.ox.ac.uk/~vgg/data/flo
 
 **train.py** uses this model to build a command line application which allows the user to build and train a neural network with different hyperparameters.
 
-Hope you enjoying going through the project as much as I enjoyed working on it :)
+Hope you enjoy going through the project as much as I enjoyed working on it :)
 
 If you have any doubts or suggestions please feel free to email me at st638@njit.edu. Keep learning. Thank you!
